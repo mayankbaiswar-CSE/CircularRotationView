@@ -145,8 +145,6 @@ class CircleView: UIViewController, CAAnimationDelegate {
         parentView.layer.add(rotationAnimation, forKey: "rotationAnimation")
         
         self.view.backgroundColor = bgColor
-//        guard let statusBar = UIApplication.shared.value(forKeyPath: "statusBarWindow.statusBar") as? UIView else { return }
-//        statusBar.backgroundColor = bgColor
         currentColorIndex = buttonTag
         
         colorTogglerTag = buttonTag
