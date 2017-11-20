@@ -5,4 +5,5 @@ The library gives you easy animation to let you select the theme color of your a
 
 ![view collapse animation](https://github.com/mayankbaiswar-CSE/CircularRotationView/blob/master/view-collapse.gif)
 
-* Licensed under Apache 2.0
+# LICENSE
+* Licensed under Apache 2.0. See [LICENSE](https://github.com/mayankbaiswar-CSE/CircularRotationView/blob/master/LICENSE.md) for details.
